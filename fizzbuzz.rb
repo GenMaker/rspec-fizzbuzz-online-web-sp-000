@@ -7,8 +7,4 @@ def fizzbuzz (int)
     puts "Buzz"
  elsif int % 3 == 0
  puts "Fizz"
-
-elsif int % 15 == 0
-  puts " this one"
-  end
 end
