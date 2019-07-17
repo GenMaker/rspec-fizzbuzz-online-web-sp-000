@@ -7,5 +7,5 @@ def fizzbuzz (int)
     puts "Buzz"
  elsif int % 3 == 0
  puts "Fizz"
-end
+  #end
 end
